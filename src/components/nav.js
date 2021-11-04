@@ -8,10 +8,10 @@ const Nav = (props) => {
         <div className="bannerLink">Home</div>
       </Link>
       <Link to="/stocks">
-        <div className="bannerLink">Dashboard</div>
+        Dashboard
       </Link>
       <Link to="/about">
-      <div className="bannerLink">About</div>
+     About
       </Link>
       </div>
   );
