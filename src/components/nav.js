@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 
-//navagation for homepage
+
 const Nav = (props) => {
   return (
     <div>

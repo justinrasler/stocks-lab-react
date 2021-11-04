@@ -1,5 +1,6 @@
 import {useState, useEffect} from "react"
 
+//shows indivial stocks properties
 const Stocks = (props) => {
     const stockData = props.stockData
     const [stock, setStock] = useState(null)

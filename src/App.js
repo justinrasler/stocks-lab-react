@@ -6,6 +6,8 @@ import Nav from "./components/nav";
 import Stocks from "./pages/stocks";
 import stockData from "./stock-data";
 
+
+
 function App() {
   return (
     <div className="App">
