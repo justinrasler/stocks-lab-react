@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
+//navagation for homepage
 const Nav = (props) => {
   return (
     <div>
@@ -8,6 +10,8 @@ const Nav = (props) => {
         <div className="bannerLink">Home</div>
       </Link>
       <Link to="/stocks">
+
+
         Dashboard
       </Link>
       <Link to="/about">
