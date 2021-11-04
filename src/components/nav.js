@@ -7,7 +7,7 @@ const Nav = (props) => {
   return (
     <div>
     <Link to="/">
-        <div className="bannerLink">Home</div>
+        Home
       </Link>
       <Link to="/stocks">
 
